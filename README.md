@@ -4,7 +4,7 @@
 
 效果如下：
 
-[mosaic](example.gif)
+![mosaic](example.gif)
 
 
 
